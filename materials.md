@@ -13,7 +13,7 @@ permalink: /materials/
 
 ## Graphical tools
 * [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
-* [https://wolfreealpha.gitlab.io/](https://wolfreealpha.gitlab.io/)
+* [https://www.mathgptpro.com/zh-TW/app/ask](https://www.mathgptpro.com/zh-TW/app/ask)
 * [https://www.desmos.com/calculator?lang=zh-TW](https://www.desmos.com/calculator?lang=zh-TW)
 * [https://www.geogebra.org/](https://www.geogebra.org/)
 
