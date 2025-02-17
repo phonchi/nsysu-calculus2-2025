@@ -13,6 +13,7 @@ links:
       
 ---
 **Suggested Readings:**
+- [[Test and Power Series]](/nsysu-calculus2-2024/static_files/presentations/Test_power_series.pdf)
 - [[chapter 9 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2-2024/static_files/presentations/Chap09_Summary.pdf)
 - [[chapter 9 summary slides_chinese (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2-2024/static_files/presentations/chap09_Summary_Chinese.pdf)
 - Chapter 9.1~9.2
