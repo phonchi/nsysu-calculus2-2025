@@ -8,7 +8,7 @@ permalink: /materials/
 
 ## Book
 
-* [Calculus, 12th Ed (Metric Version)](https://www.tunghua.com.tw/portal_b10_cnt_page.php?button_num=b10&folder_id=666&cnt_id=10267)
+* [Calculus, 12th Ed (Metric Version)](https://www.tunghua.com.tw/portal_c1_cnt_page.php?owner_num=c1_81363&button_num=c1&folder_id=100728&cnt_id=677157&search_word=&up_page=)
 * [Resources provided by authors](https://www.calcview.com/calculus-12e/P/1/#CVV_NJtWMN2d6ck)
 
 ## Graphical tools
