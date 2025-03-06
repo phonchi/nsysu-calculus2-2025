@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-07
+date: 2025-03-07
 title: Infinite series
 tldr: 
 thumbnail: 
