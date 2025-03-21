@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-21
-title: Infinite series and Parametric Equations
+title: Infinite series
 tldr: 
 thumbnail: 
 hide_from_announcments: true
