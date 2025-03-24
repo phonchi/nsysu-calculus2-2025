@@ -2,7 +2,7 @@
 type: assignment
 date: 2025-03-21T16:00:00+3:30
 title: 'Assignment #4'
-attachment: /static_files/assignments/第四次作業.pdf
+attachment: /static_files/assignments/第四次作業-更新版.pdf
 
 due_event: 
     type: due
