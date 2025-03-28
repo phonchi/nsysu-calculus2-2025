@@ -6,7 +6,7 @@ attachment: /static_files/assignments/Quiz1.pdf
 
 due_event: 
     type: due
-    date: 2024-04-10T12:00:00+3:30
+    date: 2025-04-10T12:00:00+3:30
     description: 'Quiz #1 due'
 ---
 
