@@ -13,5 +13,5 @@ links:
 ---
 **Suggested Readings:**
 - [[chapter 11 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2/static_files/presentations/Chap11_Summary_Chinese.pdf)
-- [[Polar Graphs]](https://www.geogebra.org/m/rYvqZqBshttps://demonstrations.wolfram.com/PolarTrace/)
+- [[Polar Graphs]](https://www.geogebra.org/m/rYvqZqBs)
 - Chapter 10.4, 10.5, 11.7
