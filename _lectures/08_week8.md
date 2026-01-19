@@ -13,6 +13,6 @@ links:
 ---
 **Suggested Readings:**
 - [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-86HiG017CQHGUQwEbs1HDAv)
-- [[chapter 11 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2/static_files/presentations/Chap11_Summary_Chinese.pdf)
+- [[chapter 11 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2-2025/static_files/presentations/Chap11_Summary_Chinese.pdf)
 - [[Polar Graphs]](https://www.geogebra.org/m/rYvqZqBs)
 - Chapter 10.4, 10.5, 11.7
