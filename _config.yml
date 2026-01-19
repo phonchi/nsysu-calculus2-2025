@@ -3,7 +3,7 @@ course_name: Calculus (II)
 course_description: "In this course we will study the basic knowledge and techniques of calculus for real valued functions of multiple variables."
 course_semester: "Spring 2025"
 
-baseurl: "/nsysu-calculus2" # the subpath of your site, e.g. /blog/
+baseurl: "/nsysu-calculus2-2025" # the subpath of your site, e.g. /blog/
 url: "https://phonchi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "National Sun Yat-Sen University"
